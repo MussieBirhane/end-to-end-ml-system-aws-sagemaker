@@ -1,7 +1,6 @@
 # End-to-end-ml-systems-on-aws-sagemaker
 
-A complete Machine Learning (ML) pipeline is built on [Amazon SageMaker studio]
-(https://aws.amazon.com/sagemaker/). The pipeline comprises data pre-processing,
+A complete Machine Learning (ML) pipeline is built on [Amazon SageMaker studio] (https://aws.amazon.com/sagemaker/). The pipeline comprises data pre-processing,
 training and hyperparameter tuning, deploying and monitoring.
 
 This repository paves a framework template to develop a production ready
